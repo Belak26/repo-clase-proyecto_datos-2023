@@ -5,4 +5,4 @@ Repositorio creado por *Kaleb Avila*
 
 Este es un cambio realizado por un colaborador del proyecto de manera **Remota**
 
-Dicho cambio fue ejectudado por **Azael Padilla**
+Dicho cambio fue ejecutado por **Azael Padilla**
